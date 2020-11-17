@@ -1,0 +1,18 @@
+export default {
+  'menu.welcome': '欢迎',
+  'menu.home': '首页',
+  'menu.login': '登录',
+  'menu.addressBook': '通讯录',
+  'menu.personal': '个人中心',
+  'menu.sys': '系统管理',
+  'menu.sys.user': '用户管理',
+  'menu.sys.role': '角色管理',
+  'menu.sys.menu': '菜单管理',
+  'menu.sys.ulog': '操作日志',
+  'menu.sys.dataAuthority': '数据权限',
+  'menu.sys.dataAuthority.row': '行权限',
+  'menu.sys.organization': '组织管理',
+  'menu.bakestage': '后台管理',
+  'menu.bakestage.task': '任务管理',
+  'menu.bakestage.dict': '字典管理',
+}
